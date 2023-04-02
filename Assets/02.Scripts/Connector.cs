@@ -7,7 +7,7 @@ using Photon.Voice.PUN;
 
 public class Connector : MonoBehaviour
 {
-    [SerializeField] private ResourcesSO _resources;
+    [SerializeField] private Photon.Extension.Resources _resources;
 
     private void Start()
     {

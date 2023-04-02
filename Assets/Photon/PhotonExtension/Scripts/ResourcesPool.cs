@@ -8,7 +8,7 @@ namespace Photon.Extension
     {
         private Dictionary<string, GameObject> _dic;
 
-        public ResourcesPool(ResourcesSO resources)
+        public ResourcesPool(Resources resources)
         {
             if (_dic == null)
             {
