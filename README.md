@@ -15,7 +15,8 @@
 ## PhotonEventHandler
  handle custom events over network using EventChannel
 
-## Custom Prefab Pool
- AddressablesPool using Unity's Addressables
+## AddressablesPool
+ prefab pool using Unity's Addressables
  
- ResourcesPool using list that has references of assets to use
+## ResourcesPool 
+ prefab pool using list that has references of assets to use
